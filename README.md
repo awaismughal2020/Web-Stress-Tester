@@ -63,15 +63,6 @@ npm install stress-testing-tool
 
 ---
 
-## 📦 Typical Use Cases
-
-- **Web Applications:** E-commerce platforms, SaaS products, and similar sites.
-- **APIs:** REST APIs, GraphQL endpoints, and other backend services.
-- **Databases:** Stress-test connection pooling, large data sets, and heavy query workloads.
-- **Infrastructure:** Assess server, CDN, or network capacity under high demand.
-
----
-
 ## 🤝 Contributing
 
 We welcome your contributions!  
